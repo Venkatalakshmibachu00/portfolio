@@ -235,6 +235,21 @@ body {
   font-weight: bold;
 }
 
+.hire-head {
+  margin-left: 13%;
+}
+
+.hire {
+  margin: 20px auto;
+  font-size: 17px;
+  background: red;
+  padding: 10px;
+  width: 75%;
+  color: white;
+  border-radius: 8px;
+  border: 2px solid;
+}
+
 /*----------contact----------*/
 #contact {
   padding: 75px 0 40px;
@@ -394,6 +409,14 @@ body {
     margin-top: 20px;
     font-size: 32px;
     text-align: center;
+  }
+
+  .hire-head{
+    margin: 0px;
+  }
+
+  .hire{
+    width: 100%;
   }
 
   .btn {
